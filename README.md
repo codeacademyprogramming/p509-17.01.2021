@@ -31,6 +31,9 @@
    - [The Async Await Episode I Promised](https://youtu.be/vn3tm0quoqE)
    - [Async JavaScript Promises & Callbacks](https://drive.google.com/drive/folders/1D7VNGx0aoTwGjlfaXMHgd5obQsbHRMaf?usp=sharing)
    - [Working with Http Requests](https://drive.google.com/drive/folders/1V-SH0seAGlEjBalEO7z30DIXMW8jaKUh?usp=sharing)
+2. **API Integration:**
+   - Use [The Rick and Morty API](https://rickandmortyapi.com/) (`/character` endpoint).
+   - Create [these cards view](https://user-images.githubusercontent.com/74110914/104852029-ce932d00-5911-11eb-82e0-cf285afec3b8.png) with CSS Grid. ![screencapture-rickandmortyapi-2021-01-17-22_16_37](https://user-images.githubusercontent.com/74110914/104852029-ce932d00-5911-11eb-82e0-cf285afec3b8.png)
 
 ## Some other useful resources:
 
