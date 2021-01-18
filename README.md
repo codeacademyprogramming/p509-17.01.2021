@@ -37,10 +37,8 @@
 
 ## Some other useful resources:
 
-- Some public APIs:
-  - https://roadmap.sh/roadmaps/frontend.png
-  - https://2020.stateofjs.com/en-US/
-  - https://drive.google.com/drive/folders/1UCenb3gnHL1ceZ4vHr02n0Nsz31wqJxJ?usp=sharing
+- Front-end roadmap: https://roadmap.sh/roadmaps/frontend.png
+- State of JS 2020: https://2020.stateofjs.com/en-US/
 - Telegram channels to subscribe:
   - https://t.me/forwebdev
   - https://t.me/webstandards_ru
