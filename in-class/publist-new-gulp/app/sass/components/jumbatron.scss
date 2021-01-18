@@ -1,0 +1,49 @@
+.jumbatron {
+  // background-color: rgba(255, 0, 0, 0.301);
+  &-content {
+    width: 580px;
+    padding: 140.5px 0;
+    @media (max-width: 1080px) {
+      width: unset;
+      padding: 80px 22.5px 140px;
+      text-align: center;
+    }
+    h1 {
+      font-family: 'Montserrat-ExtraBold';
+      font-size: 58px;
+      line-height: 80px;
+      @media (max-width: 1080px) {
+        width: 200px;
+        font-size: 40px;
+        line-height: 57px;
+        margin: 0 auto;
+        font-family: 'Montserrat-Bold';
+      }
+    }
+    p {
+      margin: 35px 0;
+      color: $grey;
+      font-size: 20px;
+      line-height: 30px;
+    }
+    .buttons {
+      display: flex;
+      @media (max-width: 1080px) {
+        flex-direction: column;
+        align-items: center;
+      }
+      // button {
+      //   @media (max-width: 1080px) {
+      //     display: inline-block;
+      //   }
+      // }
+      button:first-child {
+        margin-right: 10px;
+        @media (max-width: 1080px) {
+          margin-right: unset;
+          margin-bottom: 20px;
+        }
+      }
+    }
+  }
+}

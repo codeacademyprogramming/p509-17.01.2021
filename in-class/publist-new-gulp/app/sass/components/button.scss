@@ -1,0 +1,18 @@
+.btn {
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 28px;
+  padding: 10px 36px;
+  border-radius: 37px;
+
+  &-primary {
+    border: 1px solid $orange;
+    color: $white;
+    background-color: $orange;
+  }
+  &-secondary {
+    border: 1px solid $green;
+    color: $green;
+    background-color: transparent;
+  }
+}
